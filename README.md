@@ -4,7 +4,7 @@
 
 - <b>Leftover Makeover</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Link](https://leftover-makeover-6a09fd37d87b.herokuapp.com/)
+  - [Link to App](https://leftover-makeover-6a09fd37d87b.herokuapp.com/)
 
 
 
