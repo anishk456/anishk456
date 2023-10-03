@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>Food Recommendation Application</b>
+- <b>Recipe Recommendation Application</b>
   - [Leftover Makeover](https://github.com/anishk456/Leftover-Makeover)
   - [Link to App](https://leftover-makeover-6a09fd37d87b.herokuapp.com/)
 
