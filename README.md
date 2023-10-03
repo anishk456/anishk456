@@ -2,8 +2,8 @@
 
 <h2>Projects:</h2>
 
-- <b>Leftover Makeover</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Food Recommendation Application</b>
+  - [Leftover Makeover](https://github.com/anishk456/Leftover-Makeover)
   - [Link to App](https://leftover-makeover-6a09fd37d87b.herokuapp.com/)
 
 
