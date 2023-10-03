@@ -9,6 +9,9 @@
 - <b>Real-Time Sports Betting Odds</b>
   - [Sports Odds Pipeline](https://github.com/anishk456/Sports-Odds-Pipeline)
 
+- <b>Exercise Form Correction Using Computer Vision</b>
+  - [Exercise Correction](https://github.com/anishk456/Exercise-Correction)
+
 
 
 
